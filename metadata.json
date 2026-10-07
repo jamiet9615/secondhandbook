@@ -1,0 +1,6 @@
+{
+  "name": "校園二手書交易平台",
+  "description": "極簡淺色風格的校園二手書交易平台，提供學長姊書籍上架與學弟妹選購登記功能，串接 Google Apps Script (GAS) 後端。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
